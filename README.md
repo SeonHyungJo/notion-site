@@ -1,5 +1,7 @@
 # Notion Site
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/dac5bcf3-5ab4-467d-a9cd-5a01a749e2a4/deploy-status)](https://app.netlify.com/sites/notion-snyung/deploys)
+
 내가 사용하는 Notion 페이지를 사이트로 만들어주기 프로젝트
 
 누구의 Notion 페이지든 사이트로 보여주기가 가능합니다.
