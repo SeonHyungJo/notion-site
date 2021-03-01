@@ -11,7 +11,7 @@ import response from "@/data/resume.json"; // https://notion.snyung.workers.dev/
 
 function Notion() {
   const { pageId } = useParams();
-  const [blockMap, setBlockMap] = useState(response);
+  const [blockMap, setBlockMap] = useState({});
 
   useEffect(() => {
     axios.get(`https://notion.snyung.workers.dev/v1/page/${pageId}`).then((res) => {
