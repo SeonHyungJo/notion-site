@@ -46,10 +46,6 @@
 
 https://notion.snyung.com/ce3b5a9eb580480e91044e4cc9dfb527
 
-### 원티드 
-
-https://notion.snyung.com/Wanted-4-a9dc251d1bd145adb398eb4d5396ade8
-
 ### 지그재그 
 
 https://notion.snyung.com/a561a88ad03e4022860924fd557a0da3
@@ -68,7 +64,7 @@ https://notion.snyung.com/flex-team-2b27d869c39849e7a569e9af76bdc02c
 
 ### 당근마켓
 
-https://notion.snyung.com/9d7e5686e05548c99393310e6769847a
+https://notion.snyung.com/3d0197c137ec43d18ff739b5b254a3c8
 
 
 
