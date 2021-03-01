@@ -1,11 +1,11 @@
 import React from "react";
-import { Route } from "react-router-dom";
+import { Switch, Route } from "react-router-dom";
 
 import Notion from "./components/notion";
 
 function App() {
   return (
-    <>
+    <Switch>
       <Route exact strict path="/:pageId">
         <Notion />
       </Route>
@@ -17,7 +17,7 @@ function App() {
           </p>
         </section>
       </Route>
-    </>
+    </Switch>
   );
 }
 
