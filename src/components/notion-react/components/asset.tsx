@@ -1,5 +1,5 @@
 import * as React from "react";
-import { BlockType, ContentValueType, MapImageUrl } from "../types";
+import { BlockType, ContentValueType, MapImageUrl } from "../../types";
 
 const types = ["video", "image", "embed", "figma"];
 

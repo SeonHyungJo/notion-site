@@ -1,6 +1,6 @@
 import * as React from "react";
 
-import { BlockMapType, MapPageUrl, MapImageUrl } from "../types";
+import { BlockMapType, MapPageUrl, MapImageUrl } from "../../types";
 import PageIcon from "./page-icon";
 
 interface PageHeaderProps {
