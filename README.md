@@ -42,10 +42,6 @@
 
 ## 예시 사이트
 
-### 에이블리 
-
-https://notion.snyung.com/ce3b5a9eb580480e91044e4cc9dfb527
-
 ### 지그재그 
 
 https://notion.snyung.com/a561a88ad03e4022860924fd557a0da3
